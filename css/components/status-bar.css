@@ -14,12 +14,14 @@
 .status-bar__column:nth-child(2){
     display:flex;
     justify-content: center;
+    margin-top: 3px;
     }
 
 .status-bar__column:last-child{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    margin-bottom:px ;
 }
 
-.status-bar__column .fa-battery-full {margin: 0px 5px;}
+.status-bar__column .fa-battery-full {margin:-9px 10px;}
