@@ -1,4 +1,10 @@
-# Kokoa Clone 2020 update
-This is my first time learning to CODE
+# Kokoa Clone 2021 update
+노마드코더를 따라만든 코딩의 기초 '코코아톡 클론코딩'!
+HTML과 CSS를 배우는 기초강좌입니다...
+이번에 찰랜지까지 마무리했는데요.
+처음으로 클론코딩을 해봤네요 ㅎㅎ
+HTML과 CSS는 프로그래밍 언어는 아니지만 확실히 간단하지만은 않아요...
+그래도 내시간을 투자해서 만들어진 첫 졸업작품! 뿌듯합니당!
 
-HTML&CSS are so much fun!
+
+
